@@ -2,7 +2,7 @@
 import { cn } from "@/lib/utils";
 import { BackgroundGradientAnimation } from "./BackgroundGradient";
 import { GlobeDemo } from "./GridGlobe";
-import Lottie from "react-lottie";
+// import Lottie from "react-lottie";
 import { useState } from "react";
 import animationData from "@/data/confetti.json"
 import MagicButton from "./MagicButton";

@@ -76,7 +76,7 @@ export const PinContainer = ({
 // PinPerspective component to render perspective effects and title link
 export const PinPerspective = ({
   title,
-  isParentLink = false,
+  // isParentLink = false,
 }: {
   title?: string;
   isParentLink?: boolean;
